@@ -4,7 +4,7 @@
 // let paragrafo = document.querySelector("p");
 // paragrafo.innerHTML = "Escolha um número entre 1 e 30";
 let listarNumbers = [];
-let limitNumber = 10;
+let limitNumber = 15;
 let numeroSecreto = numberAleatorio();
 let tentativas = 1;
 HomeText();
